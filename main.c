@@ -9,7 +9,7 @@
 char sym = 32;
 
 //code on brainfuck:
-char *string = "+++.";
+char *string = "";
 
 int main()
 {
